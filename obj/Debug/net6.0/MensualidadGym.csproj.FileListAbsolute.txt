@@ -1,0 +1,9 @@
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.csproj.AssemblyReference.cache
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.AssemblyInfoInputs.cache
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.AssemblyInfo.cs
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.csproj.CoreCompileInputs.cache
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.MvcApplicationPartsAssemblyInfo.cache
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.RazorAssemblyInfo.cache
+D:\Trabajos Visual\dotNet\MensualidadGym\obj\Debug\net6.0\MensualidadGym.RazorAssemblyInfo.cs
